@@ -2,6 +2,8 @@
 
 Minimalist Python is a simple MVT Python with Django as its core
 
+![Minimalist Python](https://telingadigital.com/image/public/UnwzebqAk62sFa35Eadb7SXsfUYAgJUpr8ahB0GN.png)
+
 ---
 
 > Well, I created my own folder structure as simple as possible
