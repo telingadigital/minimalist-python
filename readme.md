@@ -28,6 +28,7 @@ It includes the following package :
 git clone https://github.com/telingadigital/minimalist-python minimalist_python
 cd minimalist_python
 npm install
+webpack
 python manage.py runserver
 // access it on http://localhost:8000
 ```
